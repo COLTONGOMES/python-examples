@@ -1,6 +1,6 @@
 print "Python has 10 type of booleans", True, " and ", False
 print "They are normally the result of comparisons"
-
+# Test Pull request
 num = 8
 if num < 10:
     print num, " is less than 10"
